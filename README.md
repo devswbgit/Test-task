@@ -8,6 +8,4 @@
 ## Демо:
 ссылка на сайт без https - <http://sergeydev.beget.tech/>
 ### Доступы:
-
-* login: admin
-* password: ox&Yw)&NwfClQhsZt
+Отправил в письме
